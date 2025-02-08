@@ -1,0 +1,215 @@
+
+BGPStream Summary for route-views2 (2017-04-03 00:00:00 to 2017-04-03 02:00:00)
+
+MOAS Events Summary:
+
+Total Updates: 1730766
+MOAS Count: 103
+MOAS Ratio: 103/1730766
+
+Prefix: 92.51.64.0/18
+  Origin ASNs: 44327, {65001}
+Prefix: 168.228.117.0/24
+  Origin ASNs: 262948, 262375
+Prefix: 168.228.116.0/24
+  Origin ASNs: 262948, 262375
+Prefix: 197.148.96.0/19
+  Origin ASNs: 24691, 28683
+Prefix: 185.83.160.0/24
+  Origin ASNs: 201105, 1000
+Prefix: 185.14.184.0/22
+  Origin ASNs: 200130, {65080}
+Prefix: 91.193.202.0/24
+  Origin ASNs: 42081, 25211
+Prefix: 192.82.136.0/24
+  Origin ASNs: 36622, 36621
+Prefix: 94.73.56.0/21
+  Origin ASNs: 25211, 42081
+Prefix: 198.199.124.0/22
+  Origin ASNs: 200130, {65080}
+Prefix: 151.250.113.0/24
+  Origin ASNs: 6453, 34984
+Prefix: 138.118.220.0/22
+  Origin ASNs: 262492, 264273
+Prefix: 209.173.128.0/20
+  Origin ASNs: 30504, 15085
+Prefix: 209.173.152.0/21
+  Origin ASNs: 30504, 15085
+Prefix: 209.173.144.0/22
+  Origin ASNs: 30504, 15085
+Prefix: 80.248.77.0/24
+  Origin ASNs: 4, 30982
+Prefix: 82.196.0.0/20
+  Origin ASNs: {65080}, 200130
+Prefix: 74.121.180.0/22
+  Origin ASNs: {20278}, 53264
+Prefix: 217.65.248.0/24
+  Origin ASNs: {65530,65531}, 3255
+Prefix: 103.48.13.0/24
+  Origin ASNs: 17454, 63860
+Prefix: 199.59.94.0/24
+  Origin ASNs: 42567, 27589
+Prefix: 93.94.140.0/24
+  Origin ASNs: 44814, 60168
+Prefix: 185.7.218.0/23
+  Origin ASNs: 44814, 60168
+Prefix: 198.175.15.0/24
+  Origin ASNs: 35415, 40824
+Prefix: 103.253.0.0/24
+  Origin ASNs: 17454, 59139
+Prefix: 103.253.1.0/24
+  Origin ASNs: 17454, 59139
+Prefix: 103.253.2.0/24
+  Origin ASNs: 17454, 59139
+Prefix: 103.253.3.0/24
+  Origin ASNs: 17454, 59139
+Prefix: 185.24.175.0/24
+  Origin ASNs: 49206, 38930
+Prefix: 37.218.244.0/24
+  Origin ASNs: 47172, 133752
+Prefix: 103.10.206.0/24
+  Origin ASNs: 45474, 45599
+Prefix: 177.155.228.0/22
+  Origin ASNs: 52773, 262470
+Prefix: 103.23.247.0/24
+  Origin ASNs: 55330, 58469
+Prefix: 59.153.126.0/24
+  Origin ASNs: 132471, 55330
+Prefix: 193.42.215.0/24
+  Origin ASNs: 30880, 50827
+Prefix: 214.69.10.0/24
+  Origin ASNs: 6037, 27065
+Prefix: 80.91.56.0/24
+  Origin ASNs: 134446, 63017
+Prefix: 45.125.165.0/24
+  Origin ASNs: 38478, 133926
+Prefix: 64.40.234.0/23
+  Origin ASNs: 9989, 64803
+Prefix: 59.185.224.0/22
+  Origin ASNs: 17813, 65002
+Prefix: 125.21.19.0/24
+  Origin ASNs: 9730, 64525
+Prefix: 125.22.86.0/24
+  Origin ASNs: 9730, 64553
+Prefix: 130.0.231.0/24
+  Origin ASNs: {18919}, {18919,65156}
+Prefix: 205.174.43.0/24
+  Origin ASNs: 4637, 10026
+Prefix: 115.127.41.0/24
+  Origin ASNs: 55846, 24342
+Prefix: 118.91.174.0/24
+  Origin ASNs: 24550, 6908
+Prefix: 118.91.173.0/24
+  Origin ASNs: 24550, 6908
+Prefix: 146.185.176.0/21
+  Origin ASNs: 200130, {65080}
+Prefix: 188.248.0.0/24
+  Origin ASNs: 48695, 64550
+Prefix: 46.184.66.0/24
+  Origin ASNs: 48695, 64550
+Prefix: 188.248.1.0/24
+  Origin ASNs: 48695, 64550
+Prefix: 46.184.67.0/24
+  Origin ASNs: 48695, 64550
+Prefix: 94.77.227.0/24
+  Origin ASNs: 47794, 48695
+Prefix: 62.220.150.0/24
+  Origin ASNs: 29222, 6893
+Prefix: 85.206.56.0/22
+  Origin ASNs: 8764, 65111
+Prefix: 85.206.57.0/24
+  Origin ASNs: 8764, 65111
+Prefix: 66.129.163.0/24
+  Origin ASNs: 23550, 63393
+Prefix: 213.190.59.0/24
+  Origin ASNs: 8764, 65111
+Prefix: 185.75.196.0/23
+  Origin ASNs: 62173, 42337
+Prefix: 188.226.128.0/17
+  Origin ASNs: 200130, {65080}
+Prefix: 5.42.234.0/23
+  Origin ASNs: 35753, 25233
+Prefix: 196.13.186.0/24
+  Origin ASNs: 33791, 327795
+Prefix: 195.80.227.0/24
+  Origin ASNs: 21050, 42781
+Prefix: 196.204.0.0/16
+  Origin ASNs: 24835, {33782}
+Prefix: 146.185.128.0/19
+  Origin ASNs: 200130, {65080}
+Prefix: 194.68.125.0/24
+  Origin ASNs: 2, 198463
+Prefix: 185.117.104.0/22
+  Origin ASNs: 2, 198463
+Prefix: 193.182.180.0/24
+  Origin ASNs: 2, 198463
+Prefix: 205.95.0.0/19
+  Origin ASNs: 27066, 27064
+Prefix: 46.237.32.0/20
+  Origin ASNs: 13118, 65001
+Prefix: 217.15.156.0/23
+  Origin ASNs: 13118, 65001
+Prefix: 95.86.212.0/22
+  Origin ASNs: 13118, 65001
+Prefix: 109.161.56.0/24
+  Origin ASNs: 13118, 65001
+Prefix: 217.15.149.0/24
+  Origin ASNs: 13118, 65001
+Prefix: 217.15.137.0/24
+  Origin ASNs: 13118, 65001
+Prefix: 123.108.120.0/24
+  Origin ASNs: 45560, 38325
+Prefix: 168.253.80.0/24
+  Origin ASNs: 37650, 10
+Prefix: 20.148.0.0/20
+  Origin ASNs: 11271, 206
+Prefix: 20.132.231.0/24
+  Origin ASNs: 11271, 206
+Prefix: 20.132.248.0/24
+  Origin ASNs: 11271, 206
+Prefix: 20.132.176.0/20
+  Origin ASNs: 11271, 206
+Prefix: 146.185.160.0/20
+  Origin ASNs: 200130, {65080}
+Prefix: 181.41.222.0/23
+  Origin ASNs: 37692, 61440
+Prefix: 205.107.40.0/24
+  Origin ASNs: 27066, 27064
+Prefix: 177.107.129.0/24
+  Origin ASNs: 28268, 28201
+Prefix: 177.107.145.0/24
+  Origin ASNs: 28268, 28201
+Prefix: 187.108.60.0/24
+  Origin ASNs: 28268, 28201
+Prefix: 177.107.128.0/24
+  Origin ASNs: 28268, 28201
+Prefix: 177.107.130.0/24
+  Origin ASNs: 28268, 28201
+Prefix: 177.107.131.0/24
+  Origin ASNs: 28268, 28201
+Prefix: 177.107.133.0/24
+  Origin ASNs: 28268, 28201
+Prefix: 177.107.135.0/24
+  Origin ASNs: 28268, 28201
+Prefix: 177.107.136.0/21
+  Origin ASNs: 28268, 28201
+Prefix: 216.184.101.0/24
+  Origin ASNs: 12127, {12127}
+Prefix: 2.182.214.0/23
+  Origin ASNs: 12880, 58224
+Prefix: 185.27.249.0/24
+  Origin ASNs: 3356, 60632
+Prefix: 205.107.76.0/24
+  Origin ASNs: 27066, 647
+Prefix: 24.112.105.0/24
+  Origin ASNs: 13368, 35986
+Prefix: 24.143.20.0/24
+  Origin ASNs: 35986, 13368
+Prefix: 24.143.19.0/24
+  Origin ASNs: 35986, 13368
+Prefix: 85.255.236.0/23
+  Origin ASNs: {25135}, 25135
+Prefix: 205.107.180.0/24
+  Origin ASNs: 3475, 5839
+Prefix: 176.110.116.0/23
+  Origin ASNs: 57997, 61227
